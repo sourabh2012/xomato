@@ -1,0 +1,163 @@
+body{
+    margin: auto;
+    background-color:rgb(250, 248, 241);
+}
+a{
+    text-decoration:none;
+}
+#header{
+    height:60px;
+    width:100%;
+    background-color:#cc7640;
+}
+#icon{
+    float:left;
+    margin-left:1%;
+    margin-top: -1%;
+}
+#social{
+    float:right;
+
+}
+.slogo{
+    height:40px;
+    width:40px;
+
+}
+#content{
+    height:900px;
+    width:90%;
+    margin-top: 2%;
+    margin-left:5%;
+
+}
+#content1{
+    height:600px;
+    width:30%;
+    margin-top: 1%;
+    margin-left:1%;
+    float: left;
+    box-shadow:10px 20px 10px gray;
+    background-color:cornsilk ;
+
+}
+#heading{
+
+}
+#heading1{
+    margin-top: 1%;
+    font-size:30px;
+    font-weight: bold;
+    display:block;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+
+}
+#heading2{
+    margin-top: 3%;
+    font-size:23px;
+    display:block;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+#all{
+    display: block;
+    margin-left: 20%;
+}
+.radio{
+    display: block;
+    margin-left: 20%;
+    font-size: 17px;
+
+}
+#heading3{
+    font-size: 23px;
+    margin-left:40%;
+    font-family: 'Times New Roman', Times, serif;
+}
+#content2{
+    height:850px;
+    width:65%;
+    margin-top: 1%;
+    margin-left:1%;
+    float: left;
+
+}
+#item{
+    height: 250px;
+    width: 30%;
+    margin-top:2%;
+    margin-left:2%;
+    float: left;
+    box-shadow:10px 20px 10px gray;
+}
+#item>img{
+    height: 250px;
+    width:100%;
+
+}
+#about{
+    height: 250px;
+    width: 50%;
+    margin-top:2%;
+    margin-left:3%;
+    float: left;
+    background-color:cornsilk;
+    box-shadow:10px 20px 10px gray;
+}
+#about>p{
+    font-size: 20px;
+    margin-top:-2%;
+    margin-left:2%;
+
+}
+.aboutHeading{
+    margin-left: 15%;
+    font-size:25px;
+    color: blue;
+}
+.button{
+    font-size: 20px;
+    color:#fff;
+    background-color:rgb(41, 41, 139);
+    margin-left: 2%;
+}
+.button1{
+    font-size: 20px;
+    color:#fff;
+    background-color:rgb(0, 128, 21);
+    margin-left: 2%;
+    
+}
+.button2{
+    font-size: 20px;
+    color:#fff;
+    background-color:rgb(128, 62, 0);
+    margin-left: 2%;
+}
+
+
+#footer{
+    height:120px;
+    width:100%;
+    background-color:#cc7640;
+}
+#footText{
+    text-align:center;
+    font-weight: bold;
+}
+.footContent{
+    height: 70px;
+    width:35%;
+    border-right:2px solid #fff ;
+    float:left;
+
+}
+.footContent>p{
+    margin-left: 5%;
+}
+.footContent1>p{
+    margin-left: 5%;
+}
