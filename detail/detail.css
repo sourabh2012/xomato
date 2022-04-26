@@ -1,0 +1,105 @@
+body{
+    margin: auto;
+    background-color:rgb(250, 248, 241);
+}
+a{
+    text-decoration:none;
+}
+#header{
+    height:60px;
+    width:100%;
+    background-color:#cc7640;
+}
+#icon{
+    float:left;
+    margin-left:1%;
+    margin-top: -1%;
+}
+#icon>a{
+    color:black;
+}
+#social{
+    float:right;
+
+}
+.slogo{
+    height:40px;
+    width:40px;
+
+}
+#main{
+    height: 600px;
+    width:80%;
+    margin-top:2%;
+    margin-left:10%;
+}
+.img-container{
+    height: 400px;
+    width:35%;
+    margin-top:1%;
+    float: left;
+    border:8px groove grey;
+    box-shadow: 20px 30px 10px gray;
+}
+.img-container>img{
+    height: 400px;
+    width:100%;
+}
+.mainContent{
+    height: 550px;
+    width:50%;
+    margin-top:1%;
+    margin-left:5%;
+    float: left;
+    box-shadow: 20px 30px 10px gray;
+}
+.features_container{
+    width: 100%;
+    display: inline-block;
+
+}
+.features{
+    float: left;
+    margin-left: 6%;
+
+}
+.fetIcon{
+    height: 80px;
+}
+
+h2{
+    color:green;
+    font-size: 40px;
+    
+}
+.btn{
+    font-size:25px;
+    color:white;
+    background-color:#776c64;
+    border-radius:20%;
+
+}
+    
+
+#footer{
+    height:120px;
+    width:100%;
+    background-color:#cc7640;
+}
+#footText{
+    text-align:center;
+    font-weight: bold;
+}
+.footContent{
+    height: 70px;
+    width:35%;
+    border-right:2px solid #fff ;
+    float:left;
+
+}
+.footContent>p{
+    margin-left: 5%;
+}
+.footContent1>p{
+    margin-left: 5%;
+}
